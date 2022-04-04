@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.whitneyrobotics.codecognito.Geometry","l":"DistanceUnit"},{"p":"com.whitneyrobotics.codecognito","l":"ExampleUnitTest"},{"p":"com.whitneyrobotics.codecognito.Geometry","l":"Test"}]
